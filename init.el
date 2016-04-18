@@ -28,8 +28,8 @@ values."
      emacs-lisp
      csharp
      git
-     ;; markdown
-     ;; org
+     markdown
+     org
      (shell :variables
             shell-default-shell 'multi-term
             shell-default-term-shell "/bin/zsh"
